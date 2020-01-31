@@ -11,4 +11,6 @@ Install Aria2 on your MacOS first:
 
 Put the AriaNg.app in your /Applications
 
+Aria2 configuration file is located at AriaNg.app/Contents/aria2.conf
+
 Enjoy.
