@@ -9,6 +9,6 @@ Install Aria2 on your MacOS first:
 
     brew install aria2
 
-Put the automator in your /Applications
+Put the AriaNg.app in your /Applications
 
 Enjoy.
